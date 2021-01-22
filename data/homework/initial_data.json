@@ -1,0 +1,10 @@
+{"id":1,"name":"product1","category":"shoes","brand":"lcw","color":"blue","price":100.0,"timestamp":1611141595000}
+{"id":2,"name":"product2","category":"shoes","brand":"adidas","color":"white","price":250.0,"timestamp":1611141595000}
+{"id":3,"name":"product3","category":"Mobile Phone","brand":"lcw","color":"black","price":10.0,"timestamp":1611141595000}
+{"id":4,"name":"product4","category":"hat","brand":"defacto","color":"blue","price":35.0,"timestamp":1611141595000}
+{"id":5,"name":"product5","category":"hat","brand":"defacto","color":"green","price":33.0,"timestamp":1611141595000}
+{"id":6,"name":"product6","category":"hat","brand":"lcw","color":"blue","price":55.0,"timestamp":1611141595000}
+{"id":7,"name":"product7","category":"Laptop","brand":"dell","color":"white","price":4500.0,"timestamp":1611141595000}
+{"id":8,"name":"product8","category":"Laptop","brand":"apple","color":"white","price":5500.0,"timestamp":1611141595000}
+{"id":9,"name":"product9","category":"Laptop","brand":"apple","color":"black","price":5000.0,"timestamp":1611141595000}
+{"id":10,"name":"product10","category":"Mobile Phone","brand":"apple","color":"white","price":1000.0,"timestamp":1611141595000}
